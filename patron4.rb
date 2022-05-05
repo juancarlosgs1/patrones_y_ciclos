@@ -4,7 +4,7 @@ for i in 0..(n-1)
     if i%3 == 0
         print "1"
     elsif
-        i == 1 || i == i +3
+        i == 1 
         print "2"
     else
         print "3"
